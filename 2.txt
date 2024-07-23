@@ -72,7 +72,7 @@ CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
 深圳卫视,http://27.40.16.70:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKtBPUZJQRNJB5bOiIhhUc3e2OqQ5ejG4cfAiuU8Ka%2FSr&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C
 
-汕头综合,http://iptv.awenxin.com:8888/udp/239.253.43.45:5146
+汕头综合,http://58.62.81.17:4014/udp/239.77.1.130:5146
 汕头综合,http://gdsz.eu.org:8000/udp/239.253.43.45:5146
 汕头综合,http://www.recker.cc:4022/udp/239.253.43.45:5146
 汕头综合,http://alone.xiaokaiup.top:8088/udp/239.253.43.45:5146
