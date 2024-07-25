@@ -52,7 +52,7 @@ CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 
 深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
 
-
+汕头综合,http://fhqwvfwxf.xyz:5555/udp/239.253.43.45:5146
 汕头综合,http://szzb123ok.9966.org:9098/udp/239.253.43.45:5146
 汕头综合,http://gdsz.eu.org:8000/udp/239.253.43.45:5146
 汕头综合,http://www.recker.cc:4022/udp/239.253.43.45:5146
@@ -77,7 +77,6 @@ CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 
 海外剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 
-凤凰中文,https://mytv.btjson.us.kg/stream/tvb/null-17/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 凤凰中文,http://s.cdhongyuan.cn:4022/udp/239.93.0.162:2192
 凤凰中文,http://ayolee.com:5253/udp/239.93.0.162:2192
 凤凰中文,http://www.yao87.com:4022/udp/239.76.253.135:9000
@@ -86,7 +85,7 @@ CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 凤凰中文,http://xbbhome.top:8888/udp/239.93.0.162:2192
 
 
-凤凰资讯,https://mytv.btjson.us.kg/stream/tvb/null-18/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
 凤凰资讯,http://s.cdhongyuan.cn:4022/udp/239.93.1.4:2191
 凤凰资讯,http://ayolee.com:5253/udp/239.93.1.4:2191
 凤凰资讯,http://www.yao87.com:4022/udp/239.76.253.134:9000
