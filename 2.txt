@@ -94,6 +94,7 @@ CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 
 凤凰资讯,http://www.91dos.cn:4022/rtp/239.61.2.183:9086
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰资讯,http://myddns.com.cn:9999/udp/233.50.200.192:5140
 凤凰资讯,http://home.oneself.tech:3000/udp/239.76.253.134:9000
 凤凰资讯,http://xbbhome.top:8888/udp/239.93.1.4:2191
 凤凰资讯,http://ayolee.com:5253/udp/239.93.1.4:2191
