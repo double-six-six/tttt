@@ -103,18 +103,12 @@ CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 凤凰资讯,http://yulang132.cn:4022/udp/239.93.1.4:2191
 
 
-CCTV1,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000018602/1.m3u8
-CCTV2,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000012442/1.m3u8
-CCTV3,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000011218/1.m3u8
-CCTV5,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000004794/1.m3u8
-广东卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000014176/1.m3u8
-深圳卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009227/1.m3u8
-
-CCTV1,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?m3u8_level=2
-CCTV2,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000036BESTVSMGSMG/index.m3u8?m3u8_level=2
-CCTV3,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727c125355/index.m3u8?m3u8_level=2
-CCTV5,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727e617ca0/index.m3u8?m3u8_level=2
-广东卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN181359BESTVSMGSMG/index.m3u8?m3u8_level=2
-深圳卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN181362BESTVSMGSMG/index.m3u8?m3u8_level=2
+CCTV1,http://video.qd.sdu.edu.cn/liverespath/b455c7a019d404d571655c457e0ee8a9440a7802/index.m3u8
+CCTV2,http://video.qd.sdu.edu.cn/liverespath/6b13fe5368d391761312a985ace065c0ecad2f5e/index.m3u8
+CCTV3,http://video.qd.sdu.edu.cn/liverespath/f76f9947c68be18d7a456e25aa59a08c5747e6a5/index.m3u8
+CCTV5,http://video.qd.sdu.edu.cn/liverespath/3f76badfb3a23d95f26ff573a93902bbdb8b8e98/index.m3u8
+广东卫视,http://video.qd.sdu.edu.cn/liverespath/57e80ee85ec1f4e523e1bca55f5a676abd292db8/index.m3u
+深圳卫视
+,http://video.qd.sdu.edu.cn/liverespath/536ebe8b7165b25c8670e42eb8b7b4b6d178f158/index.m3u8
 
 CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
