@@ -108,7 +108,6 @@ CCTV2,http://video.qd.sdu.edu.cn/liverespath/6b13fe5368d391761312a985ace065c0eca
 CCTV3,http://video.qd.sdu.edu.cn/liverespath/f76f9947c68be18d7a456e25aa59a08c5747e6a5/index.m3u8
 CCTV5,http://video.qd.sdu.edu.cn/liverespath/3f76badfb3a23d95f26ff573a93902bbdb8b8e98/index.m3u8
 广东卫视,http://video.qd.sdu.edu.cn/liverespath/57e80ee85ec1f4e523e1bca55f5a676abd292db8/index.m3u
-深圳卫视
-,http://video.qd.sdu.edu.cn/liverespath/536ebe8b7165b25c8670e42eb8b7b4b6d178f158/index.m3u8
+深圳卫视,http://video.qd.sdu.edu.cn/liverespath/536ebe8b7165b25c8670e42eb8b7b4b6d178f158/index.m3u8
 
 CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
