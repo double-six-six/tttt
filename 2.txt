@@ -82,7 +82,7 @@ CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 海外剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 
 
-凤凰中文,https://ali.hlspull.yximgs.com/live/83f65dd7d094297e0d4fae2e5db1559e.flv
+凤凰中文,http://110.87.12.97:5550/rtp/239.61.2.184:9092
 凤凰中文,http://jm3.mycloudnas.com:9999/rtp/239.61.2.184:9092
 凤凰中文,http://home.oneself.tech:3000/udp/239.76.246.135:1234
 凤凰中文,http://lidahai.top:8100/udp/239.93.0.162:2192
@@ -96,7 +96,7 @@ CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 凤凰中文,http://yulang132.cn:4022/udp/239.93.0.162:2192
 
 
-凤凰资讯,https://ali.hlspull.yximgs.com/live/2a3e900c20cbaec65c342966e32aa889.flv
+凤凰资讯,http:/110.87.12.97:5550/rtp/239.61.2.183:9086
 凤凰资讯,http://jm3.mycloudnas.com:9999/rtp/239.61.2.183:9086
 凤凰资讯,http://home.oneself.tech:3000/udp/239.76.246.134:1234
 凤凰资讯,http://lidahai.top:8100/udp/239.93.0.118:2191
