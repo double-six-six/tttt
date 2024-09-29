@@ -1,3 +1,6 @@
-https://github.abskoop.workers.dev/https://github.com/2dust/v2rayNG/releases/download/1.8.39/v2rayNG_1.8.39_arm64-v8a.apk
+https://github.moeyy.xyz/https://github.com/2dust/v2rayNG/releases/download/1.8.39/v2rayNG_1.8.39_arm64-v8a.apk
+
+
+
 
 https://sub3.smallstrawberry.com/api/v1/client/subscribe?token=f73d78ac28fdbdbd1696d081b7a9a442
