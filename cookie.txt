@@ -3,4 +3,4 @@ https://github.moeyy.xyz/https://github.com/2dust/v2rayNG/releases/download/1.8.
 
 
 
-https://sub3.smallstrawberry.com/api/v1/client/subscribe?token=f73d78ac28fdbdbd1696d081b7a9a442
+https://mirror.ghproxy.com/raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
