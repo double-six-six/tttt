@@ -5,14 +5,15 @@ CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://gdsz.eu.org:8888/rtp/239.77.0.31:5146
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 
-CCTV3,http://gdsz.eu.org:8888/rtp/239.0.10.52:5052
+CCTV3,http://gdsz.eu.org:8888/rtp/239.77.0.169:5146
 CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 
 CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
 
-CCTV5,http://gdsz.eu.org:8888/rtp/239.0.10.53:5053
+CCTV5,http://gdsz.eu.org:8888/rtp/239.77.0.170:5146
 CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 
+CCTV6,http://gdsz.eu.org:8888/rtp/239.77.0.171:5146
 CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 
 CCTV7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
