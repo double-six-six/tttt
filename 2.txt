@@ -1,16 +1,20 @@
 电视频道,#genre#
 
-
+CCTV1,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000018602/1.m3u8
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 
+CCTV2,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000023315/1.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 
+CCTV3,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000011218/1.m3u8
 CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 
 CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
 
+CCTV5,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265005/1.m3u8
 CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 
+CCTV6,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000016466/1.m3u8
 CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 
 CCTV7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
@@ -45,12 +49,14 @@ CHC影迷电影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e
 
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 
+广东卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010221/1.m3u8
 广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 
 江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
 
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 
+深圳卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009227/1.m3u8
 深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
 
 汕头综合,http://gdsz.eu.org:8888/udp/239.253.43.45:5146
@@ -117,13 +123,13 @@ CHC影迷电影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e
 凤凰资讯,http://www.yao87.com:4022/udp/239.76.253.134:9000
 凤凰资讯,http://m.hjb.mba:8899/udp/239.93.1.4:2191
 
-CCTV1,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000018602/1.m3u8
-CCTV2,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000023315/1.m3u8
-CCTV3,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000011218/1.m3u8
-CCTV5,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265005/1.m3u8
-CCTV6,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000016466/1.m3u8
-广东卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010221/1.m3u8
-深圳卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009227/1.m3u8
+
+
+
+
+
+
+
 
 CCTV1,http://gdsz.eu.org:8888/rtp/239.77.0.86:5146
 CCTV2,http://gdsz.eu.org:8888/rtp/239.77.0.137:5146
