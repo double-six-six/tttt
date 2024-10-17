@@ -20,10 +20,12 @@ CCTV5,http://[2409:8087:5e08:25::a]:6610/000000001000/1000000005000265005/1.m3u8
 CCTV5,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265005/1.m3u8
 CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 
+CCTV6,http://p.ytelc.com/169l/0/aikan.php?id=cctv6
 CCTV6,http://[2409:8087:5e08:25::a]:6610/000000001000/1000000001000016466/1.m3u8?IASHttpSessionId
 CCTV6,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000016466/1.m3u8
 CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 
+CCTV7,http://p.ytelc.com/169l/0/aikan.php?id=cctv7
 CCTV7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 
 CCTV8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
