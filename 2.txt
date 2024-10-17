@@ -3,6 +3,7 @@
 CCTV1,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000018602/1.m3u8
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 
+CCTV2,http://vvlive.eztv.vip/jswsnew/jswsnew.m3u8?auth_key=1710810995-0-0-25165c5e22323204efac2b7a71ad2b81
 CCTV2,http://[2409:8087:5e08:25::a]:6610/000000001000/1000000001000023315/1.m3u8?IASHttpSessionId
 CCTV2,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000023315/1.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
@@ -13,6 +14,7 @@ CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 
 CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
 
+CCTV5,http://vvlive.eztv.vip/hwltnew/hwltnew.m3u8?auth_key=1710810887-0-0-7a1a8996ebcbf238471004e777d22778
 CCTV5,http://[2409:8087:5e08:24::5]:6610/000000001000/1000000005000265005/1.m3u8?IASHttpSessionId
 CCTV5,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265005/1.m3u8
 CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
