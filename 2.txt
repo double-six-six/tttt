@@ -76,6 +76,7 @@ CHC影迷电影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e
 深圳卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009227/1.m3u8
 深圳卫视,http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002140/index.m3u8
 
+汕头综合,http://gdsz.eu.org:8899/udp/239.253.43.45:5146
 汕头综合,http://113.90.236.101:8888/udp/239.77.1.130:5146
 汕头综合,http://116.25.243.4:18888/udp/239.77.1.130:5146
 汕头综合,http://alone.xiaokaiup.top:8088/udp/239.253.43.45:5146
@@ -93,7 +94,7 @@ CHC影迷电影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e
 汕头综合,http://szzb123ok.9966.org:9098/udp/239.253.43.45:5146
 汕头综合,http://ddns.cyruslee.top:8888/udp/239.77.1.130:5146
 汕头综合,http://w.404415.xyz:9876/udp/239.253.43.45:5146
-汕头综合,http://gdsz.eu.org:8000/udp/239.253.43.45:5146
+
 
 超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 
