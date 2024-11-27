@@ -116,12 +116,13 @@ CHC影迷电影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e
 
 海外剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 
+凤凰中文,http://171.213.204.74:8123/udp/239.93.0.162:2192
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://118.113.29.224:8888/udp/239.93.0.162:2192
 凤凰中文,http://223.145.224.201:8000/udp/239.76.253.135:9000
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8  
 
-
+凤凰资讯,http://171.213.204.74:8123/udp/239.93.0.118:2191
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://118.113.29.224:8888/udp/239.93.0.118:2191
 凤凰资讯,http://223.145.224.201:8000/udp/239.76.253.134:9000
