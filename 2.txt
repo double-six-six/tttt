@@ -85,26 +85,7 @@ CHC影迷电影,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live
 
 
 汕头综合,http://alone.xiaokaiup.top:8088/udp/239.253.43.45:5146
-汕头综合,http://home.wangaofang.top:8888/udp/239.77.1.130:5146
-汕头综合,http://gdsz.eu.org:8899/udp/239.253.43.45:5146
-汕头综合,http://14.112.86.101:4022/udp/239.77.1.130:5146
 汕头综合,http://113.111.16.176:8888/udp/239.77.1.130:5146
-汕头综合,http://113.64.92.197:8884/udp/239.77.1.130:5146
-汕头综合,http://szlyric.fun:4022/udp/239.253.43.45:5146
-汕头综合,http://dq.eric702.top:8800/udp/239.77.1.130:5146
-汕头综合,http://113.102.162.206:4022/udp/239.77.1.130:5146
-汕头综合,http://szlyric.fun:4022/udp/239.77.1.130:5146
-
-汕头综合,http://gdsz.eu.org:8888/udp/239.239.77.1.130:5146
-汕头综合,http://mail.bfgpay.cn:2052/udp/239.77.1.130:5146
-汕头综合,http://dge1.ergotron.net:8000/udp/2239.77.1.130:5146
-汕头综合,http://www.recker.cc:4022/udp/239.77.1.130:5146
-汕头综合,http://jt.zorua.cn:8787/udp/239.77.1.130:5146
-汕头综合,http://iptv.awenxin.com:8888/udp/239.77.1.130:5146
-汕头综合,http://fhqwvfwxf.xyz:5555/udp/239.253.43.45:5146
-汕头综合,http://szzb123ok.9966.org:9098/udp/239.253.43.45:5146
-汕头综合,http://ddns.cyruslee.top:8888/udp/239.77.1.130:5146
-汕头综合,http://w.404415.xyz:9876/udp/239.253.43.45:5146
 
 
 超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
