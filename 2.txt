@@ -1,41 +1,39 @@
 电视频道,#genre#
 
-CCTV1,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000005000265001/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=YanG-1989
+CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+
+CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
+
+CCTV3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
+
+CCTV4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
+
+CCTV5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 
 
-CCTV2,http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024075403.m3u8
+CCTV6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
 
-CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
 
-CCTV4,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/index.m3u8
+CCTV8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
 
+CCTV9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
 
-CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
 
+CCTV11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
 
-CCTV6,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/index.m3u8
+CCTV12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 
-CCTV7,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/index.m3u8
+CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 
-CCTV8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 
-CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV15,http://iptv.huuc.edu.cn/hls/cctv15hd.m3u8
 
-CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV16,http://iptv.huuc.edu.cn/hls/cctv16hd.m3u8
 
-CCTV11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-
-CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-
-CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
-
-CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-
-CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-
-CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-
-CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+CCTV17,http://iptv.huuc.edu.cn/hls/cctv17hd.m3u8
 
 东南卫视,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000005000265033/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265033&livemode=1&stbId=YanG-1989
 
