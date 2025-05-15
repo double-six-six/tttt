@@ -81,7 +81,7 @@ TVB PLUS,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
 
 
 凤凰中文,http://uno.ip-ddns.com/1.php
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv
 
 凤凰资讯,http://uno.ip-ddns.com/1.php?id=info
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
