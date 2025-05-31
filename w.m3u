@@ -208,6 +208,6 @@ webview://https://www.gdtv.cn/tvChannelDetail/43
 webview://https://www.gdtv.cn/tvChannelDetail/44
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东新闻.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",广东新闻
-webview://凤凰中文,http://uno.ip-ddns.com/1.php
+webview://http://uno.ip-ddns.com/1.php
 
 
