@@ -88,17 +88,17 @@ webview://https://tv.cctv.com/live/cctv17/
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="我的电视",CCTV-17 农业农村
 webview://https://yangshipin.cn/tv/home?pid=600001810
 
-#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="我的电视",CCTV 风云剧场
-webview://https://yangshipin.cn/tv/home?pid=600099658
+#EXTINF:-1 tvg-name="Animax (HK)" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/Animax (HK).png" group-title="我的电视",Animax (HK)
+https://s1.m16tv.cfd/aktv/animaxhk/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="我的电视",CCTV 第一剧场
-webview://https://yangshipin.cn/tv/home?pid=600099655
+#EXTINF:-1 tvg-name="美亞電影台(HK)" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/美亞電影台(HK).png" group-title="我的电视",美亞電影台(HK)
+https://s1.m16tv.cfd/aktv/hk/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="我的电视",CCTV 怀旧剧场
-webview://https://yangshipin.cn/tv/home?pid=600099620
+#EXTINF:-1 tvg-name="東森洋片" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/東森洋片.png" group-title="我的电视",東森洋片
+https://s1.m16tv.cfd/aktv2/CH-2/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="我的电视",北京卫视
-webview://https://yangshipin.cn/tv/home?pid=600002309
+#EXTINF:-1 tvg-name="東森電影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/東森電影.png" group-title="我的电视",東森電影
+https://s1.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="我的电视",江苏卫视
 webview://https://yangshipin.cn/tv/home?pid=600002521
@@ -118,41 +118,40 @@ webview://https://yangshipin.cn/tv/home?pid=600002481
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="我的电视",湖南卫视
 webview://https://yangshipin.cn/tv/home?pid=600002475
 
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="我的电视",湖北卫视
-webview://https://yangshipin.cn/tv/home?pid=600002508
+#EXTINF:-1 tvg-name="KPOP+" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/KPOP+.png" group-title="我的电视",KPOP+
+https://s1.m16tv.cfd/aktv3/kpop/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="我的电视",广西卫视
-webview://https://yangshipin.cn/tv/home?pid=600002509
+#EXTINF:-1 tvg-name="龍華日韓台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/龍華日韓台.png" group-title="我的电视",龍華日韓台
+https://s2.m16tv.cfd/taiwan/CH-5/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="我的电视",黑龙江卫视
-webview://https://yangshipin.cn/tv/home?pid=600002498
+#EXTINF:-1 tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/My Cinema Europe HD 我的歐洲電影.png" group-title="我的电视",My Cinema Europe HD 我的歐洲電影
+https://s2.m16tv.cfd/taiwan/CH-3/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="我的电视",海南卫视
-webview://https://yangshipin.cn/tv/home?pid=600002506
+#EXTINF:-1 tvg-name="TVB 星河" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB 星河.png" group-title="我的电视",TVB 星河
+https://s1.m16tv.cfd/taiwan2/tvb/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="我的电视",重庆卫视
-webview://https://yangshipin.cn/tv/home?pid=600002531
-
-
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视.png" group-title="我的电视",四川卫视
-webview://https://yangshipin.cn/tv/home?pid=600002516
-
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="我的电视",河南卫视
-webview://https://yangshipin.cn/tv/home?pid=600002525
-
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="我的电视",江西卫视
-webview://https://yangshipin.cn/tv/home?pid=600002503
-
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",广东卫视
-webview://https://www.gdtv.cn/tvChannelDetail/43
+#EXTINF:-1 tvg-name=TVBS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS.png" group-title="我的电视",TVBS
+https://s2.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
 
 
-#EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东新闻.png" group-title="我的电视" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",广东新闻
-webview://https://www.gdtv.cn/tvChannelDetail/45
+#EXTINF:-1 tvg-name="明珠剧集台(北美)" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠剧集台(北美).png" group-title="我的电视",明珠剧集台(北美)
+https://s1.m16tv.cfd/aktv/CH-19/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="南方购物" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/南方购物.png" group-title="我的电视" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",南方购物
-webview://https://www.gdtv.cn/tvChannelDetail/42
+#EXTINF:-1 tvg-name="tvN" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/tvN.png" group-title="我的电视",tvN
+https://s1.m16tv.cfd/aktv/tvn/AKTV.m3u8
 
+#EXTINF:-1 tvg-name="ROCK Action" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/ROCK Action.png" group-title="我的电视",ROCK Action
+https://s1.m16tv.cfd/aktv/rockaction/AKTV.m3u8
+
+#EXTINF:-1 tvg-name="民視" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/民視.png" group-title="我的电视" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",民視
+https://s2.m16tv.cfd/taiwan/CH-1/AKTV.m3u8
+
+
+#EXTINF:-1 tvg-name="PopC" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/PopC.png" group-title="我的电视" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",PopC
+https://s1.m16tv.cfd/aktv/popc/AKTV.m3u8
+
+#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻台.png" group-title="我的电视" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",中天新闻台
+https://s2.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
 
 
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="我的电视",凤凰中文
