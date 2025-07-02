@@ -34,49 +34,50 @@ CCTV16,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 
 CCTV17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?
 
-东南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226991/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQ6F5Mjgs0tJyEArWFL3vQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+东南卫视,
 
-东方卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226898/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0uh4lyjjBCCN7TCq21vSIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+东方卫视,
 
-四川卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226995/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBQiz3wrGrpG0CUSRIJ-7Jg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+四川卫视,
 
-湖南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EIGb_ib7rnBX9_sANRKq9sg%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000003873458%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007253514_0%2CEND&GuardEncType=2
+湖南卫视,
 
-东方卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226898/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0uh4lyjjBCCN7TCq21vSIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+东方卫视,
 
-广东卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2MGyx659D_aaDPP0qt3NgA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+广东卫视,
 
-江苏卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226897/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0BmO6uHF7WFoTed__Xr3NQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+江苏卫视
 
-浙江卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETYfTgTra_pUx2cPrgZ_BDw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+浙江卫视,
 
-深圳卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGrVNEZREjuNVKiTJo2mtwg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+深圳卫视,
 
-北京卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+KPOP +,https://s1.m16tv.cfd/aktv3/kpop/AKTV.m3u8
 
-中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+中天新闻,https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
 
-POPC,http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
+POPC,https://s1.m16tv.cfd/aktv/popc/AKTV.m3u8
 
-Animax,http://aktv_stream1.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
+Animax,https://s1.m16tv.cfd/aktv/animaxhk/AKTV.m3u8
 
-东森新闻,http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+东森新闻,https://s1.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
 
-中天新闻,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
+ROCK Action,https://s1.m16tv.cfd/aktv/rockaction/AKTV.m3u8
 
-TVB PLUS,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
+TVB PLUS,https://s1.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
 
 明珠台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
 
-無線新聞台,https://live.tvfix.org/live/inews/index.m3u8
+無線新聞台,https://s1.m16tv.cfd/aktv/CH-1/AKTV.m3u8
 
-美亞電影台,https://live.tvfix.org/live/mydy/index.m3u8
+美亞電影台,https://s1.m16tv.cfd/aktv/hk/AKTV.m3u8
 
-翡翠台,https://live.tvfix.org/live/jade/index.m3u8
+翡翠台,https://s1.m16tv.cfd/aktv/CH-0/AKTV.m3u8
 
-凤凰香港,https://live.tvfix.org/live/fwxg/index.m3u8
+凤凰香港,https://s1.m16tv.cfd/aktv/CH-5/AKTV.m3u8
 
 
+凤凰中文,https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
 
 凤凰中文,http://uno.ip-ddns.com/1.php
 
@@ -84,8 +85,23 @@ TVB PLUS,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
 
 凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
 
+
+凤凰资讯,https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
+
 凤凰资讯,http://uno.ip-ddns.com/1.php?id=info
 
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 
 凤凰资讯,https://live.tvfix.org/live/fhzx/index.m3u8
+
+龙华日韩台,https://s2.m16tv.cfd/taiwan/CH-5/AKTV.m3u8
+
+我的欧洲电影https://s2.m16tv.cfd/taiwan/CH-3/AKTV.m3u8
+
+东森洋片,https://s2.m16tv.cfd/aktv2/CH-2/AKTV.m3u8
+
+东森电影,https://s2.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
+
+
+
+
