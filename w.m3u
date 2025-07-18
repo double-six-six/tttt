@@ -97,8 +97,8 @@ http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
 #EXTINF:-1 tvg-name="東森洋片" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/東森洋片.png" group-title="我的电视",東森洋片
 http://s1.an94tv.cfd/aktv2/CH-2/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="東森電影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/東森電影.png" group-title="我的电视",東森電影
-http://s1.an94tv.cfd/aktv2/CH-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="緯來體育台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/緯來體育台.png" group-title="我的电视",緯來體育台
+http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="我的电视",江苏卫视
 webview://https://yangshipin.cn/tv/home?pid=600002521
@@ -118,21 +118,20 @@ webview://https://yangshipin.cn/tv/home?pid=600002481
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="我的电视",湖南卫视
 webview://https://yangshipin.cn/tv/home?pid=600002475
 
-#EXTINF:-1 tvg-name="KPOP+" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/KPOP+.png" group-title="我的电视",KPOP+
-http://s1.an94tv.cfd/aktv3/kpop/AKTV.m3u8
+#EXTINF:-1 tvg-name=TVBS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/KPOP+.png" group-title="我的电视",TVBS
+http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="龍華日韓台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/龍華日韓台.png" group-title="我的电视",龍華日韓台
-https://s2.an94tv.cfd/taiwan/CH-5/AKTV.m3u8
+http://s1.an94tv.cfd/taiwan/CH-5/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/My Cinema Europe HD 我的歐洲電影.png" group-title="我的电视",My Cinema Europe HD 我的歐洲電影
-https://s2.an94tv.cfd/taiwan/CH-3/AKTV.m3u8
+#EXTINF:-1 tvg-name="好萊塢電影台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/" group-title="我的电视",好萊塢電影台
+http://s1.an94tv.cfd/aktv2/CH-1/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="TVB 星河" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB 星河.png" group-title="我的电视",TVB 星河
 http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
 
-#EXTINF:-1 tvg-name=TVBS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS.png" group-title="我的电视",TVBS
-https://s2.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
-
+#EXTINF:-1 tvg-name=TVB Plus" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS.png" group-title="我的电视",TVB Plus
+http://s1.an94tv.cfd/aktv/tvbplus/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="明珠剧集台(北美)" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠剧集台(北美).png" group-title="我的电视",明珠剧集台(北美)
 http://s1.an94tv.cfd/aktv/CH-19/AKTV.m3u8
@@ -144,15 +143,14 @@ http://s1.an94tv.cfd/aktv/tvn/AKTV.m3u8
 http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="民視" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/民視.png" group-title="我的电视" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",民視
-https://s2.an94tv.cfd/taiwan/CH-1/AKTV.m3u8
+http://s1.an94tv.cfd/taiwan/CH-1/AKTV.m3u8
 
 
 #EXTINF:-1 tvg-name="PopC" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/PopC.png" group-title="我的电视" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",PopC
 http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻台.png" group-title="我的电视" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",中天新闻台
-https://s2.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
-
+http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="我的电视",凤凰中文
 https://tv.oxooxo.dpdns.org/1.php
